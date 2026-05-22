@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarav Sharma",
+    "speciality": "Cardiologist",
+    "experience": 12,
+    "rating": 4.8,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+    "clinicLocation": "Indiranagar, Bengaluru"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Nair",
+    "speciality": "Dermatologist",
+    "experience": 9,
+    "rating": 4.6,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+    "clinicLocation": "Whitefield, Bengaluru"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Rohan Mehta",
+    "speciality": "Orthopedic Surgeon",
+    "experience": 15,
+    "rating": 4.9,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/13.jpg",
+    "clinicLocation": "HSR Layout, Bengaluru"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sneha Kapoor",
+    "speciality": "Pediatrician",
+    "experience": 7,
+    "rating": 4.5,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+    "clinicLocation": "Koramangala, Bengaluru"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Vikram Rao",
+    "speciality": "Neurologist",
+    "experience": 18,
+    "rating": 4.7,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/15.jpg",
+    "clinicLocation": "Jayanagar, Bengaluru"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Ananya Iyer",
+    "speciality": "Gynecologist",
+    "experience": 11,
+    "rating": 4.8,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+    "clinicLocation": "BTM Layout, Bengaluru"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Karan Malhotra",
+    "speciality": "ENT Specialist",
+    "experience": 10,
+    "rating": 4.4,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/17.jpg",
+    "clinicLocation": "Marathahalli, Bengaluru"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Meera Joshi",
+    "speciality": "Psychiatrist",
+    "experience": 13,
+    "rating": 4.9,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+    "clinicLocation": "Electronic City, Bengaluru"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Aditya Verma",
+    "speciality": "General Physician",
+    "experience": 6,
+    "rating": 4.3,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/19.jpg",
+    "clinicLocation": "Yelahanka, Bengaluru"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Neha Singh",
+    "speciality": "Ophthalmologist",
+    "experience": 14,
+    "rating": 4.7,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+    "clinicLocation": "Rajajinagar, Bengaluru"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Rahul Desai",
+    "speciality": "Dentist",
+    "experience": 8,
+    "rating": 4.5,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+    "clinicLocation": "Bellandur, Bengaluru"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Pooja Bhat",
+    "speciality": "Endocrinologist",
+    "experience": 16,
+    "rating": 4.8,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+    "clinicLocation": "Malleshwaram, Bengaluru"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Siddharth Kulkarni",
+    "speciality": "Urologist",
+    "experience": 17,
+    "rating": 4.6,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/23.jpg",
+    "clinicLocation": "Hebbal, Bengaluru"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Kavya Reddy",
+    "speciality": "Pulmonologist",
+    "experience": 10,
+    "rating": 4.7,
+    "profileImageUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+    "clinicLocation": "Sarjapur Road, Bengaluru"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Arjun Patel",
+    "speciality": "Oncologist",
+    "experience": 20,
+    "rating": 4.9,
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/25.jpg",
+    "clinicLocation": "Banashankari, Bengaluru"
+  }
+]
