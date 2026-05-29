@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "New Appointment Booked",
+    "subtitle": "Rahul Sharma booked an appointment for 10:30 AM today.",
+    "timestamp": "2026-05-29T09:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Appointment Cancelled",
+    "subtitle": "Priya Verma cancelled her appointment scheduled for 2:00 PM.",
+    "timestamp": "2026-05-29T08:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Upcoming Consultation",
+    "subtitle": "You have a consultation with Amit Kumar in 30 minutes.",
+    "timestamp": "2026-05-29T08:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Prescription Viewed",
+    "subtitle": "Sneha Patel viewed the prescription you issued.",
+    "timestamp": "2026-05-28T17:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Payment Received",
+    "subtitle": "Payment of ₹800 received from Rajesh Singh.",
+    "timestamp": "2026-05-28T15:10:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Patient Message",
+    "subtitle": "Neha Gupta sent you a new message.",
+    "timestamp": "2026-05-28T13:45:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Appointment Reminder",
+    "subtitle": "You have 5 appointments scheduled for tomorrow.",
+    "timestamp": "2026-05-28T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Medical Report Uploaded",
+    "subtitle": "Vikram Mehta uploaded a new lab report.",
+    "timestamp": "2026-05-27T18:30:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Profile Verification Complete",
+    "subtitle": "Your doctor profile has been successfully verified.",
+    "timestamp": "2026-05-27T11:15:00Z"
+  },
+  {
+    "id": 10,
+    "title": "System Maintenance",
+    "subtitle": "Scheduled maintenance will occur tonight from 1 AM to 2 AM.",
+    "timestamp": "2026-05-27T07:00:00Z"
+  }
+]
