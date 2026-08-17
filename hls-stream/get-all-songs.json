@@ -1,0 +1,42 @@
+[
+  {
+    "id": "song-01",
+    "title": "Ullu Ka Pattha",
+    "artist": "Arijit Singh, Nikhita Gandhi",
+    "album": "Jagga Jasoos",
+    "album_artist": "Pritam",
+    "movie": "Jagga Jasoos",
+    "release_year": 2017,
+    "duration": 211,
+    "duration_formatted": "03:31",
+    "genre": "Bollywood",
+    "language": "Hindi",
+    "composer": "Pritam",
+    "lyricist": "Amitabh Bhattacharya",
+    "record_label": "T-Series",
+    "hls_stream_url": "https://shivamratan.github.io/papp-api/hls-stream/song-01/master.m3u8",
+    "cover_image_url": null,
+    "cover_image_source": "https://i.scdn.co/image/ab67616d0000b27378b9e75e320b05a0f56d9d04",
+    "metadata_source": "Spotify"
+  },
+  {
+    "id": "song-02",
+    "title": "Lamha Lamha",
+    "artist": "Abhijeet, Sunidhi Chauhan",
+    "album": "Gangster (Original Motion Picture Soundtrack)",
+    "album_artist": "Pritam",
+    "movie": "Gangster: A Love Story",
+    "release_year": 2006,
+    "duration": 324,
+    "duration_formatted": "05:24",
+    "genre": "Bollywood",
+    "language": "Hindi",
+    "composer": "Pritam",
+    "lyricist": "Neelesh Misra",
+    "record_label": "Vishesh Films / Sony Music India",
+    "hls_stream_url": "https://shivamratan.github.io/papp-api/hls-stream/song-02/master.m3u8",
+    "cover_image_url": null,
+    "cover_image_source": "https://i.scdn.co/image/ab67616d0000b273e15cc52ef005a58b575a958f",
+    "metadata_source": "Spotify"
+  }
+]
